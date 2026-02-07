@@ -1,0 +1,74 @@
+{
+  "raw_data": {
+    "company_name": "--- Page 1 ---",
+    "tagline": null,
+    "problem": "Problem\n\u2022 Healthcare providers spend 50% of time on paperwork\n\u2022 Medical errors cost $20B annually\n\u2022 Doctors face burnout from administrative burden\n\n--- Page 3 ---\nSolution\n\u2022 AI-powered clinical documentation assistant\n\u2022 Automatic note generation from voice\n\u2022 HIPAA-compliant AI understanding medical context\n\u2022 Integration with major EHR systems\n\n--- Page 4 ---\nMarket Opportunity\n\u2022 TAM: $50B Healthcare AI market\n\u2022 SAM: $5B clinical documentation\n\u2022 SOM: $500M US hospitals\n\u2022 Market growing at 35% CAGR\n\n--- Page 5 ---\nBusiness Model\n\u2022 SaaS subscription: $500/doctor/month\n\u2022 Enterprise contracts: $50K\u2013500K annually\n\u2022 Average LTV: $120K\n\u2022 CAC: $15K, LTV/CAC ratio: 8x\n\n--- Page 6 ---\nTraction\n\u2022 $2.5M ARR\n\u2022 150+ doctors across 12 hospitals\n\u2022 200% YoY revenue growth\n\u2022 95% retention rate\n\n--- Page 7 -",
+    "solution": "Solution\n\u2022 AI-powered clinical documentation assistant\n\u2022 Automatic note generation from voice\n\u2022 HIPAA-compliant AI understanding medical context\n\u2022 Integration with major EHR systems\n\n--- Page 4 ---\nMarket Opportunity\n\u2022 TAM: $50B Healthcare AI market\n\u2022 SAM: $5B clinical documentation\n\u2022 SOM: $500M US hospitals\n\u2022 Market growing at 35% CAGR\n\n--- Page 5 ---\nBusiness Model\n\u2022 SaaS subscription: $500/doctor/month\n\u2022 Enterprise contracts: $50K\u2013500K annually\n\u2022 Average LTV: $120K\n\u2022 CAC: $15K, LTV/CAC ratio: 8x\n\n--- Page 6 ---\nTraction\n\u2022 $2.5M ARR\n\u2022 150+ doctors across 12 hospitals\n\u2022 200% YoY revenue growth\n\u2022 95% retention rate\n\n--- Page 7 ---\nTeam\n\u2022 Jane Doe - CEO (Ex-Google, Stanford PhD AI)\n\u2022 John Smith - CTO (Ex-Amazon ML systems)\n\u2022 Dr. Sarah Johnson - CMO (15 years ER physician)\n\n--- Page 8 ---\nCo",
+    "market_size": {
+      "TAM": "50B",
+      "SAM": "5B",
+      "SOM": "500M"
+    },
+    "business_model": "Business Model\n\u2022 SaaS subscription: $500/doctor/month\n\u2022 Enterprise contracts: $50K\u2013500K annually\n\u2022 Average LTV: $120K\n\u2022 CAC: $15K, LTV/CAC ratio: 8x\n\n--- Page 6 ---\nTraction\n\u2022 $2.5M ARR\n\u2022 150+ doctors across 12 hospitals\n\u2022 200% YoY revenue growth\n\u2022 95% retention rate\n\n--- Page 7 ---\nTeam\n\u2022 Jane Doe - CEO (Ex-Google, Stanford PhD AI)\n\u2022 John Smith - CTO (Ex-Amazon ML systems)\n\u2022 Dr. Sarah Johnson - CMO (15 years ER physician)\n\n--- Page 8 ---\nCompetition\n\u2022 Competitors: Nuance Dragon, Suki, Abridge\n\u2022 95% accuracy vs 80% industry average\n\u2022 Native EHR integration\n\u2022 Real-time processing\n\n--- Page 9 ---\nThe Ask\n\u2022 Raising $5M Series A\n\u2022 50% Engineering\n\u2022 30% Sales & Marketing\n\u2022 20% Operations & Compliance\n\u2022 18-month runway to $10M ARR",
+    "traction": {
+      "revenue": "2.5M",
+      "growth": "35"
+    },
+    "team": "Team\n\u2022 Jane Doe - CEO (Ex-Google, Stanford PhD AI)\n\u2022 John Smith - CTO (Ex-Amazon ML systems)\n\u2022 Dr. Sarah Johnson - CMO (15 years ER physician)\n\n--- Page 8 ---\nCompetition\n\u2022 Competitors: Nuance Dragon, Suki, Abridge\n\u2022 95% accuracy vs 80% industry average\n\u2022 Native EHR integration\n\u2022 Real-time processing\n\n--- Page 9 ---\nThe Ask\n\u2022 Raising $5M Series A\n\u2022 50% Engineering\n\u2022 30% Sales & Marketing\n\u2022 20% Operations & Compliance\n\u2022 18-month runway to $10M ARR",
+    "funding_ask": "$5M",
+    "use_of_funds": null,
+    "competitors": [
+      "Competitors",
+      "Nuance Dragon",
+      "Suki",
+      "Abridge",
+      "Native",
+      "Real"
+    ],
+    "full_text": "\n--- Page 1 ---\nTechStartup AI\nRevolutionizing Healthcare with AI\n\n--- Page 2 ---\nProblem\n\u2022 Healthcare providers spend 50% of time on paperwork\n\u2022 Medical errors cost $20B annually\n\u2022 Doctors face burnout from administrative burden\n\n--- Page 3 ---\nSolution\n\u2022 AI-powered clinical documentation assistant\n\u2022 Automatic note generation from voice\n\u2022 HIPAA-compliant AI understanding medical context\n\u2022 Integration with major EHR systems\n\n--- Page 4 ---\nMarket Opportunity\n\u2022 TAM: $50B Healthcare AI market\n\u2022 SAM: $5B clinical documentation\n\u2022 SOM: $500M US hospitals\n\u2022 Market growing at 35% CAGR\n\n--- Page 5 ---\nBusiness Model\n\u2022 SaaS subscription: $500/doctor/month\n\u2022 Enterprise contracts: $50K\u2013500K annually\n\u2022 Average LTV: $120K\n\u2022 CAC: $15K, LTV/CAC ratio: 8x\n\n--- Page 6 ---\nTraction\n\u2022 $2.5M ARR\n\u2022 150+ doctors across 12 hospitals\n\u2022 200% YoY revenue growth\n\u2022 95% retention rate\n\n--- Page 7 ---\nTeam\n\u2022 Jane Doe - CEO (Ex-Google, Stanford PhD AI)\n\u2022 John Smith - CTO (Ex-Amazon ML systems)\n\u2022 Dr. Sarah Johnson - CMO (15 years ER physician)\n\n--- Page 8 ---\nCompetition\n\u2022 Competitors: Nuance Dragon, Suki, Abridge\n\u2022 95% accuracy vs 80% industry average\n\u2022 Native EHR integration\n\u2022 Real-time processing\n\n--- Page 9 ---\nThe Ask\n\u2022 Raising $5M Series A\n\u2022 50% Engineering\n\u2022 30% Sales & Marketing\n\u2022 20% Operations & Compliance\n\u2022 18-month runway to $10M ARR\n"
+  },
+  "enhanced_data": {
+    "company_name": "Nuance Dragon, Suki, Abridge",
+    "tagline": "Revolutionizing Healthcare with AI",
+    "problem": "Healthcare providers spend 50% of their time on paperwork, resulting in medical errors costing $20B annually, and doctors facing burnout from administrative burden.",
+    "solution": "TechStartup AI offers an AI-powered clinical documentation assistant that generates automatic notes from voice, is HIPAA-compliant, and integrates with major EHR systems.",
+    "market_size": {
+      "TAM": "50B",
+      "SAM": "5B",
+      "SOM": "500M"
+    },
+    "business_model": "SaaS subscription ($500/doctor/month) and Enterprise contracts ($50K\u2013500K annually)",
+    "traction": {
+      "revenue": "2.5M",
+      "growth": "35"
+    },
+    "team": "",
+    "funding_ask": "$5M Series A",
+    "competitors": [
+      "Competitors",
+      "Nuance Dragon",
+      "Suki",
+      "Abridge",
+      "Native",
+      "Real"
+    ]
+  },
+  "tables": [],
+  "metadata": {
+    "title": "untitled",
+    "author": "anonymous",
+    "subject": "unspecified",
+    "creator": "anonymous",
+    "producer": "ReportLab PDF Library - (opensource)",
+    "creation_date": "D:20260207152207+05'00'",
+    "modification_date": "D:20260207152207+05'00'",
+    "page_count": 9,
+    "format": "PDF 1.3"
+  },
+  "source_file": "Sample_Startup_Deck.pdf",
+  "enrichment": {
+    "market_signal": "unknown",
+    "accelerator_signal": "unknown",
+    "news_sentiment": "neutral"
+  }
+}

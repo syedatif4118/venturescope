@@ -1,8 +1,13 @@
-linkedin 🎯 VentureScope
+ 🎯 VentureScope
 
 **AI-Powered VC Deal Flow Intelligence Platform**
 
-VentureScope is an autonomous multi-agent system that analyzes startup pitch decks and generates comprehensive investment memos in minutes. Built with cutting-edge AI orchestration using LangGraph and HuggingFace's Upskill framework.
+
+
+VentureScope is an autonomous multi-agent AI system that analyzes startup pitch decks and generates structured investment memos in minutes — simulating how real venture capital analysts evaluate opportunities.
+
+Instead of manually reviewing pitch decks, market reports, and financial assumptions, VentureScope orchestrates specialized AI agents to extract insights, assess risk, and produce investment-ready analysis.
+
 
 ## 🚀 Features
 

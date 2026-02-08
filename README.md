@@ -181,27 +181,20 @@ Built to showcase:
 - [ ] Comparative analysis across sectors
 - [ ] Email digests for new deals
 
-## 🤝 Contributing
 
-Contributions welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE)
 
 ## 👤 Author
 
 **Syed Atif**
 - AI/ML Engineer specializing in LLM-based agent systems
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/syedatif001/
+
 
 ## 🙏 Acknowledgments
 
 - HuggingFace for Inference API and Upskill framework
 - LangChain team for LangGraph
-- Y Combinator for public pitch deck resources
 
 ---
 
